@@ -78,4 +78,4 @@ end
 
 
 
-master = Todo.new
+list = Todo.new
